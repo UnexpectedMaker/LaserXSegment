@@ -1,5 +1,5 @@
 # LaserXSegment Display Library
-An API that lets you display numbers and letters on LaserXSegment RGB LED displays that are available from [tindie](https://www.tindie.com/products/seonr/laser-segment-display//)
+An API that lets you display numbers and letters on LaserXSegment RGB LED displays that are available from [tindie](https://www.tindie.com/products/seonr/laser-segment-display/)
 
 You can find the Open Source hardware PCB design and Gerber files here too as well as the DXF laser cut design files
 
@@ -22,7 +22,8 @@ The you simply pass the display the String you would like displayed and a color:
 
     disp.DisplayText( "1234", disp.Color( 255,0,0) );
 
-    Enjoy!
+
+Enjoy!
 
 # Buy me a coffee or back me on Patreon?
 I love making and designing projects but sharing open source projects takes a lot of thought and time. I do it because I think it’s important to share knowledge and give back to the community like many have done before me.
